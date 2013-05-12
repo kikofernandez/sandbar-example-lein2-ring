@@ -1,7 +1,10 @@
 sandbar-example-lein2-ring
 ==========================
 
-Example using sandbar clojure library using Lein 2 and Ring as the server
+Example using sandbar clojure library using Lein 2 and Ring-server.
+
+This example could be considered a-kind-of fork of https://github.com/brentonashworth/sandbar-examples , except that 
+I just took the sessions file and re-adapt it so that it works with Leiningen 2 and Ring-server.
 
 ## Prerequisites
 
